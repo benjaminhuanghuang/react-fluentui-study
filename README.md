@@ -1,5 +1,7 @@
 # React FluentUI Study
-
+- React 
+- FluentUI
+- TypeScript
 
 
 
